@@ -1,2 +1,7 @@
 # irssi
-every official theme and every single script on there that still works.. 
+
+<!-- +-------------------------------------------------------------------------------------+ -->
+<!-- | irssi: complete list of official themes and extremely a huge collection of scripts. | -->
+<!-- | complied by jeru (jeru@EFnet                                                        | -->
+<!-- +-------------------------------------------------------------------------------------+ -->
+
